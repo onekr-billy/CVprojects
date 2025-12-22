@@ -1,0 +1,42 @@
+board_corners:
+- - 0.0
+  - 0.0
+- - 272.0
+  - 0.0
+- - 272.0
+  - 239.0
+- - 0.0
+  - 239.0
+board_size_mm:
+  height: 239
+  width: 272
+camera_resolution:
+  height: 720
+  width: 1280
+corner_names:
+- Bottom-Left
+- Bottom-Right
+- Top-Right
+- Top-Left
+output_size:
+  height: 478
+  width: 544
+pixel_corners:
+- - 1074.0
+  - 217.0
+- - 672.0
+  - 226.0
+- - 681.0
+  - 578.0
+- - 1086.0
+  - 570.0
+transformation_matrix:
+- - -1.3659012682160978
+  - 0.04643290430196355
+  - 1456.902021830563
+- - -0.02708181548749465
+  - -1.3710169090544202
+  - 810.8904897804387
+- - 8.026790490254735e-06
+  - 2.0951556933624774e-05
+  - 1.0

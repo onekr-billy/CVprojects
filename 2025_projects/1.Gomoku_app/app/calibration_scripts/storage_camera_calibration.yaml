@@ -1,0 +1,44 @@
+calibration_type: storage_area
+camera_resolution:
+  height: 720
+  width: 1280
+corner_names:
+- Bottom-Left
+- Bottom-Right
+- Top-Right
+- Top-Left
+description: Storage area perspective transformation for piece handling
+output_size:
+  height: 296
+  width: 210
+pixel_corners:
+- - 532.0
+  - 119.0
+- - 383.0
+  - 121.0
+- - 384.0
+  - 331.0
+- - 533.0
+  - 330.0
+storage_corners:
+- - 0.0
+  - 0.0
+- - 105.0
+  - 0.0
+- - 105.0
+  - 148.0
+- - 0.0
+  - 148.0
+storage_size_mm:
+  height: 148
+  width: 105
+transformation_matrix:
+- - -1.426714581251261
+  - 0.006761680479863986
+  - 758.207517248567
+- - -0.009576437284773661
+  - -1.4268891554312904
+  - 475.9776623651102
+- - 3.234870292611264e-05
+  - -3.0736753048462515e-07
+  - 1.0

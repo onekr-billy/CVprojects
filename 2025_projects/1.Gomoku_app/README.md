@@ -23,7 +23,7 @@
 
 ## 3.Usage
 * set your Robot arm to suport ROS2 first, tested on my Episode1 robot arm. 
-  * [check the robot link](https://enpeicv.com/forum.php?mod=viewthread&tid=1217&extra=page%3D1)
-  * [check the Episode1 ros2 demo](https://pan.baidu.com/s/1eDa-Bre2ruY9CT_rWhFDVw?pwd=fak8&_at_=1766390971553#list/path=%2F)
+  * [check the robot ros2 implementation demo](https://enpeicv.com/forum.php?mod=viewthread&tid=1217&extra=page%3D1)
+
 * colcon build --symlink-install --packages-select robot_arm_interfaces
 * python 13.chess_demo_ros2.py to start main program

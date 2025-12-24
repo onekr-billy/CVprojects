@@ -18,7 +18,7 @@
 * ubuntu 24.04
 * Robot arm
 * chessboard and pieces
-* 1208x720 usb webcam
+* 1208x720 usb webcam or higher resolution
 * depth camera (optional)
 
 ## 3.Usage
